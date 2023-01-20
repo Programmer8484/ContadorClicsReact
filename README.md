@@ -1,5 +1,5 @@
 # ContadorClicsReact
-Contador de clics, creado con React y responsive.
+Contador de clics, creado con React y es responsive.
 
 //App.js
 import './App.css';
